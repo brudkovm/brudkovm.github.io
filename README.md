@@ -1,2 +1,2 @@
 # brudkovm.github.io
-to work with github pages
+my personal github site
