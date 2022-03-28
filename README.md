@@ -8,5 +8,5 @@ general idea how computers work "Code: The Hidden Language of Computer Hardware 
 intelligible layout course in russian https://stepik.org/course/38218/syllabus  
 book about JavaScript, programming, and the wonders of the digital https://eloquentjavascript.net/index.html  
 Ivan Petrichenko course on Udemy - Полный курс по JavaScript + React - с нуля до результата - https://www.udemy.com/course/javascript_full/  
-free youtube course JavaScript from Stacshyk - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]  https://youtube.com/watch?v=CxgOKJh4zWE 
+free youtube course JavaScript from Bogdan Stacshyk - Полный Курс JavaScript Для Начинающих [11 ЧАСОВ]  https://youtube.com/watch?v=CxgOKJh4zWE 
 
